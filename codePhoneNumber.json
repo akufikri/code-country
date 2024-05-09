@@ -1,0 +1,1194 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "country_code": "+93",
+      "flag_emoji": "🇦🇫"
+    },
+    {
+      "name": "Albania",
+      "country_code": "+355",
+      "flag_emoji": "🇦🇱"
+    },
+    {
+      "name": "Algeria",
+      "country_code": "+213",
+      "flag_emoji": "🇩🇿"
+    },
+    {
+      "name": "American Samoa",
+      "country_code": "+1-684",
+      "flag_emoji": "🇦🇸"
+    },
+    {
+      "name": "Andorra",
+      "country_code": "+376",
+      "flag_emoji": "🇦🇩"
+    },
+    {
+      "name": "Angola",
+      "country_code": "+244",
+      "flag_emoji": "🇦🇴"
+    },
+    {
+      "name": "Anguilla",
+      "country_code": "+1-264",
+      "flag_emoji": "🇦🇮"
+    },
+    {
+      "name": "Antarctica",
+      "country_code": "+672",
+      "flag_emoji": "🇦🇶"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "country_code": "+1-268",
+      "flag_emoji": "🇦🇬"
+    },
+    {
+      "name": "Argentina",
+      "country_code": "+54",
+      "flag_emoji": "🇦🇷"
+    },
+    {
+      "name": "Armenia",
+      "country_code": "+374",
+      "flag_emoji": "🇦🇲"
+    },
+    {
+      "name": "Aruba",
+      "country_code": "+297",
+      "flag_emoji": "🇦🇼"
+    },
+    {
+      "name": "Australia",
+      "country_code": "+61",
+      "flag_emoji": "🇦🇺"
+    },
+    {
+      "name": "Austria",
+      "country_code": "+43",
+      "flag_emoji": "🇦🇹"
+    },
+    {
+      "name": "Azerbaijan",
+      "country_code": "+994",
+      "flag_emoji": "🇦🇿"
+    },
+    {
+      "name": "Bahamas",
+      "country_code": "+1-242",
+      "flag_emoji": "🇧🇸"
+    },
+    {
+      "name": "Bahrain",
+      "country_code": "+973",
+      "flag_emoji": "🇧🇭"
+    },
+    {
+      "name": "Bangladesh",
+      "country_code": "+880",
+      "flag_emoji": "🇧🇩"
+    },
+    {
+      "name": "Barbados",
+      "country_code": "+1-246",
+      "flag_emoji": "🇧🇧"
+    },
+    {
+      "name": "Belarus",
+      "country_code": "+375",
+      "flag_emoji": "🇧🇾"
+    },
+    {
+      "name": "Belgium",
+      "country_code": "+32",
+      "flag_emoji": "🇧🇪"
+    },
+    {
+      "name": "Belize",
+      "country_code": "+501",
+      "flag_emoji": "🇧🇿"
+    },
+    {
+      "name": "Benin",
+      "country_code": "+229",
+      "flag_emoji": "🇧🇯"
+    },
+    {
+      "name": "Bermuda",
+      "country_code": "+1-441",
+      "flag_emoji": "🇧🇲"
+    },
+    {
+      "name": "Bhutan",
+      "country_code": "+975",
+      "flag_emoji": "🇧🇹"
+    },
+    {
+      "name": "Bolivia",
+      "country_code": "+591",
+      "flag_emoji": "🇧🇴"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "country_code": "+387",
+      "flag_emoji": "🇧🇦"
+    },
+    {
+      "name": "Botswana",
+      "country_code": "+267",
+      "flag_emoji": "🇧🇼"
+    },
+    {
+      "name": "Brazil",
+      "country_code": "+55",
+      "flag_emoji": "🇧🇷"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "country_code": "+246",
+      "flag_emoji": "🇮🇴"
+    },
+    {
+      "name": "British Virgin Islands",
+      "country_code": "+1-284",
+      "flag_emoji": "🇻🇬"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "country_code": "+673",
+      "flag_emoji": "🇧🇳"
+    },
+    {
+      "name": "Bulgaria",
+      "country_code": "+359",
+      "flag_emoji": "🇧🇬"
+    },
+    {
+      "name": "Burkina Faso",
+      "country_code": "+226",
+      "flag_emoji": "🇧🇫"
+    },
+    {
+      "name": "Burundi",
+      "country_code": "+257",
+      "flag_emoji": "🇧🇮"
+    },
+    {
+      "name": "Cambodia",
+      "country_code": "+855",
+      "flag_emoji": "🇰🇭"
+    },
+    {
+      "name": "Cameroon",
+      "country_code": "+237",
+      "flag_emoji": "🇨🇲"
+    },
+    {
+      "name": "Canada",
+      "country_code": "+1",
+      "flag_emoji": "🇨🇦"
+    },
+    {
+      "name": "Cape Verde",
+      "country_code": "+238",
+      "flag_emoji": "🇨🇻"
+    },
+    {
+      "name": "Cayman Islands",
+      "country_code": "+1-345",
+      "flag_emoji": "🇰🇾"
+    },
+    {
+      "name": "Central African Republic",
+      "country_code": "+236",
+      "flag_emoji": "🇨🇫"
+    },
+    {
+      "name": "Chad",
+      "country_code": "+235",
+      "flag_emoji": "🇹🇩"
+    },
+    {
+      "name": "Chile",
+      "country_code": "+56",
+      "flag_emoji": "🇨🇱"
+    },
+    {
+      "name": "China",
+      "country_code": "+86",
+      "flag_emoji": "🇨🇳"
+    },
+    {
+      "name": "Christmas Island",
+      "country_code": "+61",
+      "flag_emoji": "🇨🇽"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "country_code": "+61",
+      "flag_emoji": "🇨🇨"
+    },
+    {
+      "name": "Colombia",
+      "country_code": "+57",
+      "flag_emoji": "🇨🇴"
+    },
+    {
+      "name": "Comoros",
+      "country_code": "+269",
+      "flag_emoji": "🇰🇲"
+    },
+    {
+      "name": "Cook Islands",
+      "country_code": "+682",
+      "flag_emoji": "🇨🇰"
+    },
+    {
+      "name": "Costa Rica",
+      "country_code": "+506",
+      "flag_emoji": "🇨🇷"
+    },
+    {
+      "name": "Croatia",
+      "country_code": "+385",
+      "flag_emoji": "🇭🇷"
+    },
+    {
+      "name": "Cuba",
+      "country_code": "+53",
+      "flag_emoji": "🇨🇺"
+    },
+    {
+      "name": "Cyprus",
+      "country_code": "+357",
+      "flag_emoji": "🇨🇾"
+    },
+    {
+      "name": "Czech Republic",
+      "country_code": "+420",
+      "flag_emoji": "🇨🇿"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "country_code": "+243",
+      "flag_emoji": "🇨🇩"
+    },
+    {
+      "name": "Denmark",
+      "country_code": "+45",
+      "flag_emoji": "🇩🇰"
+    },
+    {
+      "name": "Djibouti",
+      "country_code": "+253",
+      "flag_emoji": "🇩🇯"
+    },
+    {
+      "name": "Dominica",
+      "country_code": "+1-767",
+      "flag_emoji": "🇩🇲"
+    },
+    {
+      "name": "Dominican Republic",
+      "country_code": "+1-809, +1-829, +1-849",
+      "flag_emoji": "🇩🇴"
+    },
+    {
+      "name": "East Timor",
+      "country_code": "+670",
+      "flag_emoji": "🇹🇱"
+    },
+    {
+      "name": "Ecuador",
+      "country_code": "+593",
+      "flag_emoji": "🇪🇨"
+    },
+    {
+      "name": "Egypt",
+      "country_code": "+20",
+      "flag_emoji": "🇪🇬"
+    },
+    {
+      "name": "El Salvador",
+      "country_code": "+503",
+      "flag_emoji": "🇸🇻"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "country_code": "+240",
+      "flag_emoji": "🇬🇶"
+    },
+    {
+      "name": "Eritrea",
+      "country_code": "+291",
+      "flag_emoji": "🇪🇷"
+    },
+    {
+      "name": "Estonia",
+      "country_code": "+372",
+      "flag_emoji": "🇪🇪"
+    },
+    {
+      "name": "Ethiopia",
+      "country_code": "+251",
+      "flag_emoji": "🇪🇹"
+    },
+    {
+      "name": "Falkland Islands",
+      "country_code": "+500",
+      "flag_emoji": "🇫🇰"
+    },
+    {
+      "name": "Faroe Islands",
+      "country_code": "+298",
+      "flag_emoji": "🇫🇴"
+    },
+    {
+      "name": "Fiji",
+      "country_code": "+679",
+      "flag_emoji": "🇫🇯"
+    },
+    {
+      "name": "Finland",
+      "country_code": "+358",
+      "flag_emoji": "🇫🇮"
+    },
+    {
+      "name": "France",
+      "country_code": "+33",
+      "flag_emoji": "🇫🇷"
+    },
+    {
+      "name": "French Polynesia",
+      "country_code": "+689",
+      "flag_emoji": "🇵🇫"
+    },
+    {
+      "name": "Gabon",
+      "country_code": "+241",
+      "flag_emoji": "🇬🇦"
+    },
+    {
+      "name": "Gambia",
+      "country_code": "+220",
+      "flag_emoji": "🇬🇲"
+    },
+    {
+      "name": "Georgia",
+      "country_code": "+995",
+      "flag_emoji": "🇬🇪"
+    },
+    {
+      "name": "Germany",
+      "country_code": "+49",
+      "flag_emoji": "🇩🇪"
+    },
+    {
+      "name": "Ghana",
+      "country_code": "+233",
+      "flag_emoji": "🇬🇭"
+    },
+    {
+      "name": "Gibraltar",
+      "country_code": "+350",
+      "flag_emoji": "🇬🇮"
+    },
+    {
+      "name": "Greece",
+      "country_code": "+30",
+      "flag_emoji": "🇬🇷"
+    },
+    {
+      "name": "Greenland",
+      "country_code": "+299",
+      "flag_emoji": "🇬🇱"
+    },
+    {
+      "name": "Grenada",
+      "country_code": "+1-473",
+      "flag_emoji": "🇬🇩"
+    },
+    {
+      "name": "Guam",
+      "country_code": "+1-671",
+      "flag_emoji": "🇬🇺"
+    },
+    {
+      "name": "Guatemala",
+      "country_code": "+502",
+      "flag_emoji": "🇬🇹"
+    },
+    {
+      "name": "Guernsey",
+      "country_code": "+44-1481",
+      "flag_emoji": "🇬🇬"
+    },
+    {
+      "name": "Guinea",
+      "country_code": "+224",
+      "flag_emoji": "🇬🇳"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "country_code": "+245",
+      "flag_emoji": "🇬🇼"
+    },
+    {
+      "name": "Guyana",
+      "country_code": "+592",
+      "flag_emoji": "🇬🇾"
+    },
+    {
+      "name": "Haiti",
+      "country_code": "+509",
+      "flag_emoji": "🇭🇹"
+    },
+    {
+      "name": "Honduras",
+      "country_code": "+504",
+      "flag_emoji": "🇭🇳"
+    },
+    {
+      "name": "Hong Kong",
+      "country_code": "+852",
+      "flag_emoji": "🇭🇰"
+    },
+    {
+      "name": "Hungary",
+      "country_code": "+36",
+      "flag_emoji": "🇭🇺"
+    },
+    {
+      "name": "Iceland",
+      "country_code": "+354",
+      "flag_emoji": "🇮🇸"
+    },
+    {
+      "name": "India",
+      "country_code": "+91",
+      "flag_emoji": "🇮🇳"
+    },
+    {
+      "name": "Indonesia",
+      "country_code": "+62",
+      "flag_emoji": "🇮🇩"
+    },
+    {
+      "name": "Iran",
+      "country_code": "+98",
+      "flag_emoji": "🇮🇷"
+    },
+    {
+      "name": "Iraq",
+      "country_code": "+964",
+      "flag_emoji": "🇮🇶"
+    },
+    {
+      "name": "Ireland",
+      "country_code": "+353",
+      "flag_emoji": "🇮🇪"
+    },
+    {
+      "name": "Isle of Man",
+      "country_code": "+44-1624",
+      "flag_emoji": "🇮🇲"
+    },
+    {
+      "name": "Israel",
+      "country_code": "+972",
+      "flag_emoji": "🇮🇱"
+    },
+    {
+      "name": "Italy",
+      "country_code": "+39",
+      "flag_emoji": "🇮🇹"
+    },
+    {
+      "name": "Ivory Coast",
+      "country_code": "+225",
+      "flag_emoji": "🇨🇮"
+    },
+    {
+      "name": "Jamaica",
+      "country_code": "+1-876",
+      "flag_emoji": "🇯🇲"
+    },
+    {
+      "name": "Japan",
+      "country_code": "+81",
+      "flag_emoji": "🇯🇵"
+    },
+    {
+      "name": "Jersey",
+      "country_code": "+44-1534",
+      "flag_emoji": "🇯🇪"
+    },
+    {
+      "name": "Jordan",
+      "country_code": "+962",
+      "flag_emoji": "🇯🇴"
+    },
+    {
+      "name": "Kazakhstan",
+      "country_code": "+7",
+      "flag_emoji": "🇰🇿"
+    },
+    {
+      "name": "Kenya",
+      "country_code": "+254",
+      "flag_emoji": "🇰🇪"
+    },
+    {
+      "name": "Kiribati",
+      "country_code": "+686",
+      "flag_emoji": "🇰🇮"
+    },
+    {
+      "name": "Kuwait",
+      "country_code": "+965",
+      "flag_emoji": "🇰🇼"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "country_code": "+996",
+      "flag_emoji": "🇰🇬"
+    },
+    {
+      "name": "Laos",
+      "country_code": "+856",
+      "flag_emoji": "🇱🇦"
+    },
+    {
+      "name": "Latvia",
+      "country_code": "+371",
+      "flag_emoji": "🇱🇻"
+    },
+    {
+      "name": "Lebanon",
+      "country_code": "+961",
+      "flag_emoji": "🇱🇧"
+    },
+    {
+      "name": "Lesotho",
+      "country_code": "+266",
+      "flag_emoji": "🇱🇸"
+    },
+    {
+      "name": "Liberia",
+      "country_code": "+231",
+      "flag_emoji": "🇱🇷"
+    },
+    {
+      "name": "Libya",
+      "country_code": "+218",
+      "flag_emoji": "🇱🇾"
+    },
+    {
+      "name": "Liechtenstein",
+      "country_code": "+423",
+      "flag_emoji": "🇱🇮"
+    },
+    {
+      "name": "Lithuania",
+      "country_code": "+370",
+      "flag_emoji": "🇱🇹"
+    },
+    {
+      "name": "Luxembourg",
+      "country_code": "+352",
+      "flag_emoji": "🇱🇺"
+    },
+    {
+      "name": "Macao",
+      "country_code": "+853",
+      "flag_emoji": "🇲🇴"
+    },
+    {
+      "name": "Macedonia",
+      "country_code": "+389",
+      "flag_emoji": "🇲🇰"
+    },
+    {
+      "name": "Madagascar",
+      "country_code": "+261",
+      "flag_emoji": "🇲🇬"
+    },
+    {
+      "name": "Malawi",
+      "country_code": "+265",
+      "flag_emoji": "🇲🇼"
+    },
+    {
+      "name": "Malaysia",
+      "country_code": "+60",
+      "flag_emoji": "🇲🇾"
+    },
+    {
+      "name": "Maldives",
+      "country_code": "+960",
+      "flag_emoji": "🇲🇻"
+    },
+    {
+      "name": "Mali",
+      "country_code": "+223",
+      "flag_emoji": "🇲🇱"
+    },
+    {
+      "name": "Malta",
+      "country_code": "+356",
+      "flag_emoji": "🇲🇹"
+    },
+    {
+      "name": "Marshall Islands",
+      "country_code": "+692",
+      "flag_emoji": "🇲🇭"
+    },
+    {
+      "name": "Mauritania",
+      "country_code": "+222",
+      "flag_emoji": "🇲🇷"
+    },
+    {
+      "name": "Mauritius",
+      "country_code": "+230",
+      "flag_emoji": "🇲🇺"
+    },
+    {
+      "name": "Mayotte",
+      "country_code": "+262",
+      "flag_emoji": "🇾🇹"
+    },
+    {
+      "name": "Mexico",
+      "country_code": "+52",
+      "flag_emoji": "🇲🇽"
+    },
+    {
+      "name": "Micronesia",
+      "country_code": "+691",
+      "flag_emoji": "🇫🇲"
+    },
+    {
+      "name": "Moldova",
+      "country_code": "+373",
+      "flag_emoji": "🇲🇩"
+    },
+    {
+      "name": "Monaco",
+      "country_code": "+377",
+      "flag_emoji": "🇲🇨"
+    },
+    {
+      "name": "Mongolia",
+      "country_code": "+976",
+      "flag_emoji": "🇲🇳"
+    },
+    {
+      "name": "Montenegro",
+      "country_code": "+382",
+      "flag_emoji": "🇲🇪"
+    },
+    {
+      "name": "Montserrat",
+      "country_code": "+1-664",
+      "flag_emoji": "🇲🇸"
+    },
+    {
+      "name": "Morocco",
+      "country_code": "+212",
+      "flag_emoji": "🇲🇦"
+    },
+    {
+      "name": "Mozambique",
+      "country_code": "+258",
+      "flag_emoji": "🇲🇿"
+    },
+    {
+      "name": "Myanmar",
+      "country_code": "+95",
+      "flag_emoji": "🇲🇲"
+    },
+    {
+      "name": "Namibia",
+      "country_code": "+264",
+      "flag_emoji": "🇳🇦"
+    },
+    {
+      "name": "Nauru",
+      "country_code": "+674",
+      "flag_emoji": "🇳🇷"
+    },
+    {
+      "name": "Nepal",
+      "country_code": "+977",
+      "flag_emoji": "🇳🇵"
+    },
+    {
+      "name": "Netherlands",
+      "country_code": "+31",
+      "flag_emoji": "🇳🇱"
+    },
+    {
+      "name": "Netherlands Antilles",
+      "country_code": "+599",
+      "flag_emoji": "🇳🇱"
+    },
+    {
+      "name": "New Caledonia",
+      "country_code": "+687",
+      "flag_emoji": "🇳🇨"
+    },
+    {
+      "name": "New Zealand",
+      "country_code": "+64",
+      "flag_emoji": "🇳🇿"
+    },
+    {
+      "name": "Nicaragua",
+      "country_code": "+505",
+      "flag_emoji": "🇳🇮"
+    },
+    {
+      "name": "Niger",
+      "country_code": "+227",
+      "flag_emoji": "🇳🇪"
+    },
+    {
+      "name": "Nigeria",
+      "country_code": "+234",
+      "flag_emoji": "🇳🇬"
+    },
+    {
+      "name": "Niue",
+      "country_code": "+683",
+      "flag_emoji": "🇳🇺"
+    },
+    {
+      "name": "North Korea",
+      "country_code": "+850",
+      "flag_emoji": "🇰🇵"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "country_code": "+1-670",
+      "flag_emoji": "🇲🇵"
+    },
+    {
+      "name": "Norway",
+      "country_code": "+47",
+      "flag_emoji": "🇳🇴"
+    },
+    {
+      "name": "Oman",
+      "country_code": "+968",
+      "flag_emoji": "🇴🇲"
+    },
+    {
+      "name": "Pakistan",
+      "country_code": "+92",
+      "flag_emoji": "🇵🇰"
+    },
+    {
+      "name": "Palau",
+      "country_code": "+680",
+      "flag_emoji": "🇵🇼"
+    },
+    {
+      "name": "Palestine",
+      "country_code": "+970",
+      "flag_emoji": "🇵🇸"
+    },
+    {
+      "name": "Panama",
+      "country_code": "+507",
+      "flag_emoji": "🇵🇦"
+    },
+    {
+      "name": "Papua New Guinea",
+      "country_code": "+675",
+      "flag_emoji": "🇵🇬"
+    },
+    {
+      "name": "Paraguay",
+      "country_code": "+595",
+      "flag_emoji": "🇵🇾"
+    },
+    {
+      "name": "Peru",
+      "country_code": "+51",
+      "flag_emoji": "🇵🇪"
+    },
+    {
+      "name": "Philippines",
+      "country_code": "+63",
+      "flag_emoji": "🇵🇭"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "country_code": "+64",
+      "flag_emoji": "🇵🇳"
+    },
+    {
+      "name": "Poland",
+      "country_code": "+48",
+      "flag_emoji": "🇵🇱"
+    },
+    {
+      "name": "Portugal",
+      "country_code": "+351",
+      "flag_emoji": "🇵🇹"
+    },
+    {
+      "name": "Puerto Rico",
+      "country_code": "+1-787, +1-939",
+      "flag_emoji": "🇵🇷"
+    },
+    {
+      "name": "Qatar",
+      "country_code": "+974",
+      "flag_emoji": "🇶🇦"
+    },
+    {
+      "name": "Republic of the Congo",
+      "country_code": "+242",
+      "flag_emoji": "🇨🇬"
+    },
+    {
+      "name": "Reunion",
+      "country_code": "+262",
+      "flag_emoji": "🇾🇹"
+    },
+    {
+      "name": "Romania",
+      "country_code": "+40",
+      "flag_emoji": "🇷🇴"
+    },
+    {
+      "name": "Russia",
+      "country_code": "+7",
+      "flag_emoji": "🇷🇺"
+    },
+    {
+      "name": "Rwanda",
+      "country_code": "+250",
+      "flag_emoji": "🇷🇼"
+    },
+    {
+      "name": "Saint Barthelemy",
+      "country_code": "+590",
+      "flag_emoji": "🇧🇱"
+    },
+    {
+      "name": "Saint Helena",
+      "country_code": "+290",
+      "flag_emoji": "🇸🇭"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "country_code": "+1-869",
+      "flag_emoji": "🇰🇳"
+    },
+    {
+      "name": "Saint Lucia",
+      "country_code": "+1-758",
+      "flag_emoji": "🇱🇨"
+    },
+    {
+      "name": "Saint Martin",
+      "country_code": "+590",
+      "flag_emoji": "🇲🇫"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "country_code": "+508",
+      "flag_emoji": "🇵🇲"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "country_code": "+1-784",
+      "flag_emoji": "🇻🇨"
+    },
+    {
+      "name": "Samoa",
+      "country_code": "+685",
+      "flag_emoji": "🇼🇸"
+    },
+    {
+      "name": "San Marino",
+      "country_code": "+378",
+      "flag_emoji": "🇸🇲"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "country_code": "+239",
+      "flag_emoji": "🇸🇹"
+    },
+    {
+      "name": "Saudi Arabia",
+      "country_code": "+966",
+      "flag_emoji": "🇸🇦"
+    },
+    {
+      "name": "Senegal",
+      "country_code": "+221",
+      "flag_emoji": "🇸🇳"
+    },
+    {
+      "name": "Serbia",
+      "country_code": "+381",
+      "flag_emoji": "🇷🇸"
+    },
+    {
+      "name": "Seychelles",
+      "country_code": "+248",
+      "flag_emoji": "🇸🇨"
+    },
+    {
+      "name": "Sierra Leone",
+      "country_code": "+232",
+      "flag_emoji": "🇸🇱"
+    },
+    {
+      "name": "Singapore",
+      "country_code": "+65",
+      "flag_emoji": "🇸🇬"
+    },
+    {
+      "name": "Sint Maarten",
+      "country_code": "+1-721",
+      "flag_emoji": "🇸🇽"
+    },
+    {
+      "name": "Slovakia",
+      "country_code": "+421",
+      "flag_emoji": "🇸🇰"
+    },
+    {
+      "name": "Slovenia",
+      "country_code": "+386",
+      "flag_emoji": "🇸🇮"
+    },
+    {
+      "name": "Solomon Islands",
+      "country_code": "+677",
+      "flag_emoji": "🇸🇧"
+    },
+    {
+      "name": "Somalia",
+      "country_code": "+252",
+      "flag_emoji": "🇸🇴"
+    },
+    {
+      "name": "South Africa",
+      "country_code": "+27",
+      "flag_emoji": "🇿🇦"
+    },
+    {
+      "name": "South Korea",
+      "country_code": "+82",
+      "flag_emoji": "🇰🇷"
+    },
+    {
+      "name": "South Sudan",
+      "country_code": "+211",
+      "flag_emoji": "🇸🇸"
+    },
+    {
+      "name": "Spain",
+      "country_code": "+34",
+      "flag_emoji": "🇪🇸"
+    },
+    {
+      "name": "Sri Lanka",
+      "country_code": "+94",
+      "flag_emoji": "🇱🇰"
+    },
+    {
+      "name": "Sudan",
+      "country_code": "+249",
+      "flag_emoji": "🇸🇩"
+    },
+    {
+      "name": "Suriname",
+      "country_code": "+597",
+      "flag_emoji": "🇸🇷"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "country_code": "+47",
+      "flag_emoji": "🇸🇯"
+    },
+    {
+      "name": "Swaziland",
+      "country_code": "+268",
+      "flag_emoji": "🇸🇿"
+    },
+    {
+      "name": "Sweden",
+      "country_code": "+46",
+      "flag_emoji": "🇸🇪"
+    },
+    {
+      "name": "Switzerland",
+      "country_code": "+41",
+      "flag_emoji": "🇨🇭"
+    },
+    {
+      "name": "Syria",
+      "country_code": "+963",
+      "flag_emoji": "🇸🇾"
+    },
+    {
+      "name": "Taiwan",
+      "country_code": "+886",
+      "flag_emoji": "🇹🇼"
+    },
+    {
+      "name": "Tajikistan",
+      "country_code": "+992",
+      "flag_emoji": "🇹🇯"
+    },
+    {
+      "name": "Tanzania",
+      "country_code": "+255",
+      "flag_emoji": "🇹🇿"
+    },
+    {
+      "name": "Thailand",
+      "country_code": "+66",
+      "flag_emoji": "🇹🇭"
+    },
+    {
+      "name": "Togo",
+      "country_code": "+228",
+      "flag_emoji": "🇹🇬"
+    },
+    {
+      "name": "Tokelau",
+      "country_code": "+690",
+      "flag_emoji": "🇹🇰"
+    },
+    {
+      "name": "Tonga",
+      "country_code": "+676",
+      "flag_emoji": "🇹🇴"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "country_code": "+1-868",
+      "flag_emoji": "🇹🇹"
+    },
+    {
+      "name": "Tunisia",
+      "country_code": "+216",
+      "flag_emoji": "🇹🇳"
+    },
+    {
+      "name": "Turkey",
+      "country_code": "+90",
+      "flag_emoji": "🇹🇷"
+    },
+    {
+      "name": "Turkmenistan",
+      "country_code": "+993",
+      "flag_emoji": "🇹🇲"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "country_code": "+1-649",
+      "flag_emoji": "🇹🇨"
+    },
+    {
+      "name": "Tuvalu",
+      "country_code": "+688",
+      "flag_emoji": "🇹🇻"
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "country_code": "+1-340",
+      "flag_emoji": "🇻🇮"
+    },
+    {
+      "name": "Uganda",
+      "country_code": "+256",
+      "flag_emoji": "🇺🇬"
+    },
+    {
+      "name": "Ukraine",
+      "country_code": "+380",
+      "flag_emoji": "🇺🇦"
+    },
+    {
+      "name": "United Arab Emirates",
+      "country_code": "+971",
+      "flag_emoji": "🇦🇪"
+    },
+    {
+      "name": "United Kingdom",
+      "country_code": "+44",
+      "flag_emoji": "🇬🇧"
+    },
+    {
+      "name": "United States",
+      "country_code": "+1",
+      "flag_emoji": "🇺🇸"
+    },
+    {
+      "name": "Uruguay",
+      "country_code": "+598",
+      "flag_emoji": "🇺🇾"
+    },
+    {
+      "name": "Uzbekistan",
+      "country_code": "+998",
+      "flag_emoji": "🇺🇿"
+    },
+    {
+      "name": "Vanuatu",
+      "country_code": "+678",
+      "flag_emoji": "🇻🇺"
+    },
+    {
+      "name": "Vatican City",
+      "country_code": "+379",
+      "flag_emoji": "🇻🇦"
+    },
+    {
+      "name": "Venezuela",
+      "country_code": "+58",
+      "flag_emoji": "🇻🇪"
+    },
+    {
+      "name": "Vietnam",
+      "country_code": "+84",
+      "flag_emoji": "🇻🇳"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "country_code": "+681",
+      "flag_emoji": "🇼🇫"
+    },
+    {
+      "name": "Western Sahara",
+      "country_code": "+212",
+      "flag_emoji": "🇪🇭"
+    },
+    {
+      "name": "Yemen",
+      "country_code": "+967",
+      "flag_emoji": "🇾🇪"
+    },
+    {
+      "name": "Zambia",
+      "country_code": "+260",
+      "flag_emoji": "🇿🇲"
+    },
+    {
+      "name": "Zimbabwe",
+      "country_code": "+263",
+      "flag_emoji": "🇿🇼"
+    }
+  ]
+}
